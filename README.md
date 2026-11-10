@@ -27,7 +27,7 @@ The installer may download the required MATLAB Runtime components from MathWorks
 
 If you use this software in research, cite:
 
-> A. Kadir, T. Sire, O.V. Klymenko, “CSTR Dynamics Teaching App”, version 1.0.0, 2026, [DOI OR REPOSITORY URL].
+> A. Kadir, T. Sire, O.V. Klymenko, “CSTR Dynamics Teaching App”, version 1.0.0, 2026, https://github.com/OVKlymenko/CSTR-Dynamics-Teaching-App.
 
 ## Licence
 
