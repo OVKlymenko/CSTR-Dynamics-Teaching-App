@@ -1,0 +1,56 @@
+CSTR Dynamics Teaching App — END-USER LICENCE TERMS
+Version 1.0.0 — 10 November 2026
+
+Copyright (c) 2026 A. Kadir, T. Sire and O.V. Klymenko, School of Chemistry and Chemical Engineering, University of Surrey, UK
+
+IMPORTANT: This template is not legal advice. Replace the bracketed text and obtain review by your institution or solicitor before publication.
+
+1. LICENCE GRANT
+
+Subject to these terms, the copyright holder grants you a non-exclusive, non-transferable, royalty-free licence to install and use the compiled CSTR Dynamics Teaching App application for educational and non-commercial purposes.
+
+2. RESTRICTIONS
+
+You must not:
+
+- sell, rent, sublicense, or redistribute the application except as expressly permitted by the copyright holder;
+- reverse engineer, decompile, disassemble, or attempt to recover the source code, except to the extent that applicable law permits this despite a contractual restriction;
+- remove copyright, attribution, or other notices;
+- represent results produced by the application as endorsed or guaranteed by the authors or the University of Surrey.
+
+3. OWNERSHIP
+
+The application, including its compiled code, documentation, graphics, and other original materials, remains the property of the copyright holder. This licence does not transfer ownership.
+
+4. THIRD-PARTY COMPONENTS
+
+The application may include or depend on third-party software. Those components remain subject to their own licence terms.
+
+5. MATLAB RUNTIME
+
+The application was created using MATLAB Compiler and requires MATLAB Runtime. MATLAB Runtime is a separate MathWorks product and is governed by the applicable MathWorks licence terms. This licence does not grant any right to use MATLAB, MATLAB Runtime, or other MathWorks products outside the rights granted by MathWorks.
+
+6. DISCLAIMER
+
+THE APPLICATION IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, OR THAT THE APPLICATION WILL BE ERROR-FREE OR UNINTERRUPTED.
+
+7. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER WILL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR LOSS-OF-DATA DAMAGES ARISING FROM OR RELATED TO THE APPLICATION. Nothing in these terms excludes or limits liability that cannot lawfully be excluded or limited.
+
+8. RESEARCH AND SAFETY NOTICE
+
+The application is a research/engineering tool and is not a substitute for professional judgement, validated software, safety procedures, or regulatory approval. Users are responsible for checking inputs, outputs, assumptions, and suitability for their intended use.
+
+9. TERMINATION
+
+This licence terminates automatically if you breach these terms. On termination, stop using the application and delete copies that you control, except where retention is required by law or institutional policy.
+
+10. GOVERNING LAW
+
+This Licence is governed by the laws of England and Wales. It does not affect any mandatory rights or protections that apply to the User under the laws of the User’s country or place of residence
+
+11. CONTACT
+
+Dr O.V. Klymenko. Email: o.klymenko@surrey.ac.uk
+
